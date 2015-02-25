@@ -1,0 +1,25 @@
+﻿Build started 25/11/2013 21:17:29.
+     1>Project "D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\PCV_AG.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\obj\PCV_AG.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /MP /Ox /Ob2 /Oi /Ot /GT /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\obj\\" /Fd"D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\obj\vc110.pdb" /Gd /TP /errorReport:prompt src\main.cpp
+         main.cpp
+     1>d:\dropbox\puc-mg\7º periodo\ia\workspace\tp\pcv\src\AG.h(50): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+     1>d:\dropbox\puc-mg\7º periodo\ia\workspace\tp\pcv\src\AG.h(71): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+     1>d:\dropbox\puc-mg\7º periodo\ia\workspace\tp\pcv\src\AG.h(186): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>src\main.cpp(49): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\bin\PCV_AG.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\bin\PCV_AG.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\bin\PCV_AG.lib" /MACHINE:X64 "D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\obj\main.obj"
+         Generating code
+         Finished generating code
+         PCV_AG.vcxproj -> D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\bin\PCV_AG.exe
+       FinalizeBuildStatus:
+         Deleting file "D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\obj\PCV_AG.unsuccessfulbuild".
+         Touching "D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\\obj\PCV_AG.lastbuildstate".
+     1>Done Building Project "D:\Dropbox\PUC-MG\7º Periodo\IA\Workspace\TP\PCV\PCV_AG.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
